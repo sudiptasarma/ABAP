@@ -1,1 +1,1 @@
-# ABAP
+# This is stupid repo for all my ABAP experiments. It feels good to be able to use Git for ABAP. Thanks to the pioneers and trendsetters!! It's long due and now about time ABAP developers adopt to today's world!!
